@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>create a landing page</title>
+        <meta charset="utf-8">
+        <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="lanstyle.css"
+    </head>
+    <body>
+        <section>
+            <div class="container">
+                <nav>
+                    <h1>SimplerTravels</h1>
+                    <ul>
+                        <li><a href="" class="active">HOME</a></li>
+                        <li><a href="">ABOUT</a></li>
+                        <li><a href="">SERVICES</a></li>
+                        <li><a href="">DESTINATION</a></li>
+                        <li><a href="">CONTACT US</a></li>
+                        <li><a href="">EXPERIANCE</a></li>
+                    </ul>
+                </nav>
+                <div class="article">
+                    <h1>Best Travel Agency to EXplore the Unexplored World</h1>
+                    <p>It is Better to Travel Well than to ARRIVE <br>Let's make your Best trip Ever </p>
+                    <p>To download the Broucher click below</p>
+                    <a href="" class="btn"> download now</a>
+                </div>
+            </div>
+        </section>
+    </body>
+</html>
